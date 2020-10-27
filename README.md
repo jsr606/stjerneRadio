@@ -4,6 +4,7 @@ arduino kontrolleret servo motor som hiver i sprællemand
 hardware: arduino uno, sparkfun wireless motor shield, hitec HS-422 servo.
 
 ![sprællemand set igennem vinduet](images/fritsclausen.png)
+sprællemand set igennem vinduet
 
 ![hvile kontrollerer længden af pauser mellem bevægelser, 
 hastighed kontrollerer motorens bevægelseshastighed](images/stjerneradio1.png)
